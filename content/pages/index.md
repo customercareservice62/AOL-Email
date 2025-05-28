@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       AOL Tech Support 1-(805)-301-7609 or 1-803-384-3054 Phone Number a veteran
       name in the digital landscape, continues to serve millions of users across

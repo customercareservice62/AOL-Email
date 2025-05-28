@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: You Can Reach AOL Anytime – Here’s the 24/7 Number You Need
       color: text-dark
       styles:
         self:

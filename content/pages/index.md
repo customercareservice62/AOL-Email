@@ -11,11 +11,10 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      AOL Tech Support 1-(805)-301-7609 or 1-803-384-3054 Phone Number a veteran
+      name in the digital landscape, continues to serve millions of users across
+      the globe with services like email, web browsing.
     actions: []
     media:
       title: Title of the video

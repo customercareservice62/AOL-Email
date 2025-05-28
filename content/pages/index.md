@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: You Can Reach AOL Anytime – Here’s the 24/7 Number You Need
       color: text-dark
       styles:
         self:
